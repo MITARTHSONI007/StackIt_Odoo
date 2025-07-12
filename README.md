@@ -1,7 +1,4 @@
-<div align="center">
-
-  <img src="https://user-images.githubusercontent.com/99184393/196572825-73d2a0dc-f96e-45af-884b-77ed7cf20184.png" alt="logo" width="200" height="auto" />
-  
+ 
   <h1>StackIt with REACT.JS</h1>
   
   <p>
@@ -34,12 +31,6 @@ StackIt with REACTJS (Next.js, Firebase v9, Chakra UI, TypeScript, Recoil, (Imag
 <img width="1886" height="873" alt="image" src="https://github.com/user-attachments/assets/532e5da7-30f4-4950-bd88-9e8dc63040e9" />
   
 <br />
-  
-- Conversation Section (Reddit Clone Live Chat)
-  
-<div align="center">
-<a href="https://reddit-sclone.vercel.app"><img width='800rem' src='./demo/ezgif-1-30bf5499cc.gif' alt='image'/></a>
-</div>
 
 ## :toolbox: Getting Started
 
